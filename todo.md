@@ -1,2 +1,0 @@
-- [ ] Configure Storybook
-- [ ] Configure Shadcn to work with Bun

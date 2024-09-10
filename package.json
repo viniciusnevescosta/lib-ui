@@ -1,5 +1,4 @@
 {
-	"name": "library",
 	"workspaces": ["libui", "docs"],
 	"scripts": {
 		"dev:lib": "bun --cwd lib dev",
