@@ -1,0 +1,5 @@
+- 🚧 WIP;
+- ⚡ Blazing Fast UI library for React and React Native;
+- ✏️ Customizable;
+- 🕶 Build with awesome tools;
+- 📅 Check the [roadmap](https://github.com/users/viniciusnevescosta/projects/7) for more info about the current priorities.
