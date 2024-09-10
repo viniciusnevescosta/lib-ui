@@ -1,0 +1,71 @@
+Mozilla Public License Version 2.0
+-------------------------------------
+
+1. Definitions
+
+1.1. "Contributor" means each individual or legal entity that creates, contributes to, or owns Covered Code.
+
+1.2. "Covered Code" means the Original Code or Modifications.
+
+1.3. "Original Code" means Source Code of software code that is originally released under this License.
+
+1.4. "Source Code" means the preferred form of the Covered Code for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control compilation and installation of an executable, or source code differential comparisons against either the Covered Code or another well known software release.
+
+1.5. "Executable" means the Covered Code in any form other than Source Code.
+
+1.6. "Larger Work" means a work that combines Covered Code with other material, in a separate file or files, that is not Covered Code.
+
+1.7. "Modification" means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. It includes any new file that contains any part of the Original Code or previous Modifications.
+
+1.8. "You" means an individual or a legal entity exercising rights under this License. "Your" has a corresponding meaning.
+
+2. License Grant
+
+2.1. The initial Contributor grants You a world-wide, royalty-free, non-exclusive license:
+
+(a) to use, reproduce, modify, display, perform, sublicense, and distribute the Covered Code and its Modifications; and
+
+(b) to distribute the Covered Code and Modifications in Source Code form under the terms of this License.
+
+2.2. You may distribute the Executable form of the Covered Code and Modifications under the terms of this License, provided that You also meet the following conditions:
+
+(a) You must include a copy of this License with every copy of the Executable that You distribute.
+
+(b) You must include a prominent notice stating that You have changed the Covered Code and include the date of any changes.
+
+3. Distribution of Source Code
+
+3.1. You must distribute the Source Code of the Covered Code and Modifications to all recipients of the Executable form of the Covered Code.
+
+3.2. You must include a copy of this License with every copy of the Source Code that You distribute.
+
+4. Inability to Comply Due to Statute or Regulation
+
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Code due to statute or regulation, then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code that is affected.
+
+5. Application of this License
+
+This License applies to the Covered Code as a whole, and not to individual files or modules within the Covered Code.
+
+6. Termination
+
+6.1. This License and the rights granted hereunder will terminate automatically if You fail to comply with the terms of this License.
+
+6.2. If You bring a patent claim against any Contributor over patents that You claim are infringed by the Covered Code, your License shall terminate.
+
+7. Miscellaneous
+
+7.1. This License represents the complete agreement concerning subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+7.2. This License shall be governed by the laws of the State of New York, without regard to its conflict of laws principles.
+
+7.3. Each party is responsible for its own costs and expenses in connection with this License.
+
+8. Disclaimer of Warranty
+
+Covered Code is provided under this License on an "as is" basis, without warranty of any kind, either express or implied, including, without limitation, any warranty of non-infringement, merchantability, or fitness for a particular purpose.
+
+9. Limitation of Liability
+
+Under no circumstances and under no legal theory, whether tort (including negligence), contract, or otherwise, shall any Contributor, or anyone who distributes Covered Code as permitted hereby, be liable to You for any damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of Covered Code.
+
